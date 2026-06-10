@@ -1,0 +1,36 @@
+# Compiled MATLAB files
+*.mex*
+*.p
+*.mexa64
+*.mexw64
+*.mexmaci64
+
+# Simulink
+*.slxc
+*.slx
+*.mdl
+*.autosave
+
+# Figures and images
+*.fig
+*.jpg
+*.png
+*.tiff
+
+# Workspace and history
+*.mat
+*.mlapp
+*.asv
+*.m~   # Auto‑save backups
+
+# Output folders
+/analisis/
+*.xlsx
+
+# EDF data (too large; list paths in README)
+/datos_edf2/
+/resumenes/
+
+# OS metadata
+.DS_Store
+Thumbs.db
